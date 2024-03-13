@@ -1,2 +1,3 @@
 # King-County-USA-House-sale-analysis
-Determine the overall trend in house prices in King County over a time period  between May 2014 and May 2015  identifying factors influencing price fluctuations.
+This dataset is an open source data taken from Kaggle.This contain House sale prices for King count, which includes seattle. 
+Segment the housing market based on various criteria (e.g., location, property type, price, etc) to understand different market segments' preferences, behaviours, and needs.
